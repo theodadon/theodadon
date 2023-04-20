@@ -12,9 +12,10 @@ Programming languages used:
 * Python
 * JavaScript
 * HTML / CSS
-* PHP
+* PHP + SYMFONY
 * SQL 
 * C
+* Java
 * Bash Script (Linux)
 
 ## My social networks
